@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  #curriculo {
+    width: 80%;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #header {
+    border-radius: 50%;
+    text-align: center;
+  }
+  
+  #header img {
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  #conteudo section {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .experiencia h3 {
+    color: #333;
+  }
+  
+  .experiencia p {
+    margin-top: 5px;
+    color: #666;
+  }
+
+  .header {
+    border-radius: 50%;
+    border: 1px solid #ccc;
+  }
+  
